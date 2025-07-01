@@ -1,12 +1,15 @@
 import Head from "next/head";
 import Layout from "../components/Layout";
 import Link from "next/link";
+import "../styles/globals.css"; // Ensure you have global styles
+
 
 export default function Home() {
   return (
     <Layout>
       <Head>
         <title>Smart Kenya - Learn. Grow. Earn.</title>
+        <meta name="monetag" content="b077c7db1cc69dfdcaa70a6eb9e499fe"></meta>
         <meta
           name="description"
           content="Smart Kenya is your source for online earning, tech tips and digital opportunities."
