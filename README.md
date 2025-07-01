@@ -16,6 +16,7 @@
 - 🎲 **Betting Tips & Results**  
 - 🎬 **Entertainment & Gossip**  
 
+
 ---
 
 ## 🛠 Tech Stack
@@ -36,3 +37,4 @@ npm install
 
 # Run development server
 npm run dev
+"" 
